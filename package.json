@@ -1,6 +1,6 @@
 {
 	"name": "bootstrap-fonts-complete",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "A complete list of Bootstrap Fonts and their sources",
 	"keywords": ["bootstrap", "web", "fonts", "complete", "families", "family", "styles", "variants", "weights"],
 	"main": "./bootstrap-fonts.json",
