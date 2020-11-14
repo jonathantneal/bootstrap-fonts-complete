@@ -14,7 +14,7 @@
 		"type": "git",
 		"url": "https://github.com/jonathantneal/bootstrap-fonts-complete.git"
 	},
-	"dependencies": {
+	"devDependencies": {
 		"postcss": "^4.1.16"
 	}
 }
